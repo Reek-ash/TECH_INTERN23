@@ -2,19 +2,19 @@
 
 # Level 1: Sorting Algorithms
 ## Quick Sort
-`File: quicksort.cpp`
+`File: quick_sort.cpp`
 Description: Implementation of the Quick Sort algorithm in C/C++.
 Usage: Compile and run the program to sort an array of integers using the Quick Sort algorithm.
 ## Heap Sort
-`File: heapsort.cpp`
+`File: heap_sort.cpp`
 Description: Implementation of the Heap Sort algorithm in C/C++.
 Usage: Compile and run the program to sort an array of integers using the Heap Sort algorithm.
 ## Shell Sort
-`File: shellsort.cpp`
+`File: shell_sort.cpp`
 Description: Implementation of the Shell Sort algorithm in C/C++.
 Usage: Compile and run the program to sort an array of integers using the Shell Sort algorithm.
 ## Tree Sort
-`File: treesort.cpp`
+`File: tree_sort.cpp`
 Description: Implementation of the Tree Sort algorithm in C/C++.
 Usage: Compile and run the program to sort an array of integers using the Tree Sort algorithm.
 # Level 2: Graph Algorithms
@@ -27,7 +27,7 @@ Usage: Compile and run the program to find the shortest path in a given graph us
 Description: Implementation of Kruskal's Algorithm for finding the minimum spanning tree in a graph in C/C++.
 Usage: Compile and run the program to find the minimum spanning tree in a given graph using Kruskal's Algorithm.
 ## Prim's Algorithm
-`File: prim.cpp`
+`File: prims.cpp`
 Description: Implementation of Prim's Algorithm for finding the minimum spanning tree in a graph in C/C++.
 Usage: Compile and run the program to find the minimum spanning tree in a given graph using Prim's Algorithm.
 # Level 3: Finding Second-Largest Element
@@ -37,7 +37,7 @@ Description: C/C++ program to find the second-largest element in an array withou
 Usage: Compile and run the program to find the second-largest element in a given array.
 # Level 4: Maximum Width of a Binary Search Tree
 Maximum Width of Binary Search Tree
-`File: maxwidth.cpp`
+`File: bst.cpp`
 Description: C/C++ program to find the maximum width of a binary search tree.
 Usage: Compile and run the program to find the maximum width of a given binary search tree.
 # Level 5: Game Character Simulation
@@ -62,4 +62,3 @@ If you have any questions or inquiries, please feel free to contact me:
 
 Reek Ash
 reekash2920@gmail.com
-
