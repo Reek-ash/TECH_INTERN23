@@ -36,7 +36,7 @@ Usage: Compile and run the program to find the minimum spanning tree in a given 
 Description: C/C++ program to find the second-largest element in an array without sorting.
 Usage: Compile and run the program to find the second-largest element in a given array.
 # Level 4: Maximum Width of a Binary Search Tree
-Maximum Width of Binary Search Tree
+Maximum Width of Binary Search Tree 
 `File: bst.cpp`
 Description: C/C++ program to find the maximum width of a binary search tree.
 Usage: Compile and run the program to find the maximum width of a given binary search tree.
